@@ -18,3 +18,14 @@ aside{
 .logo a{
       box-shadow: 0 0 20px 5px #00f;
 }
+table{
+    border: 1px solid rgb(214, 120, 6);
+    background-color: antiquewhite;
+}
+h2{
+    background-color: antiquewhite ;
+}
+nav{
+    background-color: antiquewhite;
+    display: inline-block;
+}
