@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+article{
+    flex: 2;
+    overflow-y: auto;
+}
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+.logo a{
+      box-shadow: 0 0 20px 5px #00f;
+}
+table{
+    border: 1px solid rgb(214, 120, 6);
+    background-color: antiquewhite;
+}
+h2{
+    background-color: antiquewhite ;
+}
+nav{
+    background-color: antiquewhite;
+    display: inline-block;
+}
